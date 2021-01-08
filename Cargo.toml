@@ -1,10 +1,10 @@
 [package]
-name = "qr-code"
+name = "qr-gen"
 version = "1.0.0"
 authors = ["Tri Nguyen <tri@trinnguyen.com>"]
 edition = "2018"
 license = "MIT"
-keywords = ["qr-code", "qr", "barcode", "qr-code generation"]
+keywords = ["qr-code", "qr", "barcode", "qr-code-gen"]
 categories = ["command-line-utilities"]
 description = "CLI tool to generate QR-Code from text"
 readme = "README.md"

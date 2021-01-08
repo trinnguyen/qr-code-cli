@@ -209,7 +209,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "qr-code"
+name = "qr-gen"
 version = "1.0.0"
 dependencies = [
  "qrcodegen",
