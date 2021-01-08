@@ -1,0 +1,13 @@
+[package]
+name = "qr-code"
+version = "1.0.0"
+authors = ["Tri Nguyen <tri@trinnguyen.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+qrcodegen = "1.6.0"
+resvg = "0.13.0"
+usvg = "0.13.0"
+tiny-skia = "0.3"
