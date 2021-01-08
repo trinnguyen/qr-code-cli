@@ -1,3 +1,5 @@
+//! CLI tool to generate QR-Code from text
+
 use std::{env, process::{Command, exit}};
 
 use qrcodegen::{QrCode, QrCodeEcc};

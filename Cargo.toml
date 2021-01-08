@@ -3,8 +3,12 @@ name = "qr-code"
 version = "1.0.0"
 authors = ["Tri Nguyen <tri@trinnguyen.com>"]
 edition = "2018"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+license = "MIT"
+keywords = ["qr-code", "qr", "barcode", "qr-code generation"]
+categories = ["command-line-utilities"]
+description = "CLI tool to generate QR-Code from text"
+readme = "README.md"
+repository = "https://github.com/trinnguyen/qr-code-clil"
 
 [dependencies]
 qrcodegen = "1.6.0"
