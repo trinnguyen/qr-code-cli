@@ -8,7 +8,7 @@ keywords = ["qr-code", "qr", "barcode", "qr-code-gen"]
 categories = ["command-line-utilities"]
 description = "CLI tool to generate QR-Code from text"
 readme = "README.md"
-repository = "https://github.com/trinnguyen/qr-code-clil"
+repository = "https://github.com/trinnguyen/qr-code-cli"
 
 [dependencies]
 qrcodegen = "1.6.0"
