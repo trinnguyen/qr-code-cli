@@ -1,6 +1,6 @@
 [package]
 name = "qr-gen"
-version = "1.0.0"
+version = "1.0.1"
 authors = ["Tri Nguyen <tri@trinnguyen.com>"]
 edition = "2018"
 license = "MIT"
